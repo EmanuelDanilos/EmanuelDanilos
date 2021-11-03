@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Portfolio
+#Portfolio
 
 About me
 
