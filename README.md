@@ -4,13 +4,22 @@
 
 Certified automation tester, taking the first steps in the IT world. I try to expand my knowledge and skills to be able to start a great adventure with testing. Getting a job is not my only goal. At work, I want to show what I can do and what business benefits can result from the use of test automation.
 
+## My test documentation
+
+* Bug reports
+* Test plan
+* Test reports
+* [Test cases](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
+* [Test scenarios](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
+* [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
+
 ## Tech Stack
 
 * Databases: MySQL, MS SQL, Oracle Database, PL/SQL, noSQL, Mongo DB
 * Languages: Java, Javascript (Test Automation)
 * Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
 * Frameworks: Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
-* Version Control Systems: Bitbucket, Git, Gitlab, SVN
+* Version Control Systems: Git, Git Bash, GitHub, GitLab
 * CI: Jenkins, TeamCity
 * Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
 
@@ -64,12 +73,3 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
-
-## My test documentation
-
-* Bug reports
-* Test plan
-* Test reports
-* [Test cases](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
-* [Test scenarios](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
-* [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
