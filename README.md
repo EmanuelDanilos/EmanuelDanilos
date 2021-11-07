@@ -71,6 +71,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * Test Reports
 * Test Cases
 * Test Scenarios
+* [Mindp map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
 
 ## My Projects
 
