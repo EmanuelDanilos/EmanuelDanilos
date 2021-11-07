@@ -70,20 +70,5 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * Bug Reports
 * Test Reports
 * [Test cases](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
-* Test Scenarios
+* [Test scenarios](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
 * [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
-
-## My Projects
-
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) - Website prepared for future Software Testers. There, you will find the necessary information on how to become a Tester. In the articles, you will learn what problems testers are facing.
-* **Sii Calendar 2020 - Power People, Be Yourself, Be Proud** - Modeling in Sii Calendar.
-* **Technical Trainer** - Technical Trainer in "Zostań Testerem" ("Become Tester") project. Providing knowledge in ISTQB Foundation Level Theory.
-* E-learning Courses Author:
-  * Testing with RestAssured
-  * Postman
-  * Tomcat/Maven
-  * Oracle
-  * Introduction to SQL.
-* **Sii Calendar 2019 - Behind Every Great Project There Are Sii Power People** - Modeling in Sii Calendar. 
-* **Project Manager of Sii Power People Lublin** - Runners Team Coordination.
-* **Global Campaign - Great Place to Work 2018** - Outdoor and online marketing campaign to promote Great Place To Work award obtained by Sii.
