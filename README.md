@@ -65,7 +65,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * [toniebug.pl](https://www.toniebug.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
-## My test Documentation
+## My test documentation
 
 * Bug reports
 * Test plan
