@@ -13,13 +13,16 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * [Test scenarios](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
 * [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
 
+* [Postman tests]
+* [Selenium IDE tests]
+
 ## Tech Stack
 
 * Databases: MySQL, MS SQL, Oracle Database, PL/SQL, noSQL, Mongo DB
 * Languages: Java, Javascript (Test Automation)
 * Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
-* Frameworks: Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
-* Version Control Systems: Git, Git Bash, GitHub, GitLab
+* Frameworks: Cucumber, Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
+* Version Control Systems: Git, Git Bash, GitHub/GitLab
 * CI: Jenkins, TeamCity
 * Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
 
