@@ -18,7 +18,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 ## Tech Stack
 
-* Databases: MySQL, MS SQL, Oracle Database, PL/SQL, noSQL, Mongo DB
+* Databases: MySQL Workbench, MS SQL Server
 * Languages: Java, Javascript (Test Automation)
 * Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
 * Frameworks: Cucumber, Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
@@ -28,27 +28,11 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 ## Courses 
 
-* Applying the Lambda Architecture with Spark, Kafka, and Cassandra
-* Automatyzacja testów Selenium WebDriver
-* Bazy danych – podstawy projektowania relacyjnych baz danych
-* Beginning Data Exploration and Analysis with Apache Spark
-* Complete Step By Step Java For Testers
-* Continuous Integration and Continuous Delivery: The Big Picture
-* Getting Started with Apache Kafka
-* Getting Started with HDFS
-* How Git Works
-* ISTQB - Poziom zaawansowany, Techniczny analityk testów
-* Introduction to MongoDB
-* Javascript: Getting Started
-* Microsoft SQL Server 2012
-* Programista stron z obsługą bazy danych
-* Reasoning About Asynchronous JavaScript
-* Rest API Automation With Rest Assured - Novice To Ninja
-* Szkolenie Trenerskie
-* Take Control of Your Big Data with HUE in Cloudera CDH
-* TestNG Complete Bootcamp For Beginners - Novice To Ninja
-* The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
-* The Successful Technical Interview for Interviewers
+* SQL - język zapytań do bazy danych SQL Server
+* Java Basics for Beginners
+* Wprowadzenie do Git i GitHub
+* Selenium Webdriver Java : Learn from Scratch
+* HTML5 and CSS3 Fundamentals
 
 ## Technical Books read
 
