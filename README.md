@@ -14,7 +14,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
 
 * [Postman tests]
-* [Selenium IDE tests]
+* [Selenium IDE tests](https://drive.google.com/drive/folders/1m4gLsR3uFO9HM5lXMsoFPcmkP7mBpvYZ?usp=sharing)
 
 ## Tech Stack
 
