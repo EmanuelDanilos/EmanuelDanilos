@@ -28,7 +28,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 ## Courses 
 
-* SQL - język zapytań do bazy danych SQL Server
+* .[SQL - język zapytań do bazy danych SQL Server](https://drive.google.com/file/d/1Sh-c-hrgkqsV0Xe_rV7cfyYd7EboSTZr/view?usp=sharing)
 * Java Basics for Beginners
 * Wprowadzenie do Git i GitHub
 * Selenium Webdriver Java : Learn from Scratch
