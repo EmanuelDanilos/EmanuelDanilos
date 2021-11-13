@@ -7,7 +7,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 ## My documentation
 
 # Knowledge documentation
-* [SQL statements for primary databses] ()
+* [SQL statements for the primary databses](https://drive.google.com/file/d/16tmKaRQsYkAhyRBXM6OCON4n66MmK_Yt/view?usp=sharing)
 
 # Test documemtation
 
