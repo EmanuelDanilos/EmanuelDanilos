@@ -4,7 +4,12 @@
 
 Certified automation tester, taking the first steps in the IT world. I try to expand my knowledge and skills to be able to start a great adventure with testing. Getting a job is not my only goal. At work, I want to show what I can do and what business benefits can result from the use of test automation.
 
-## My test documentation
+## My documentation
+
+# Knowledge documentation
+* [SQL statements for primary databses] ()
+
+# Test documemtation
 
 * Bug reports
 * Test plan
@@ -12,7 +17,6 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * [Test cases](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
 * [Test scenarios](https://docs.google.com/spreadsheets/d/1PvYUetrYjGlBWi9qeXA52DhJZ-9kmbFdag3cR_6Xtgo/edit?usp=sharing)
 * [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
-
 * [Postman tests]
 * [Selenium IDE tests](https://drive.google.com/drive/folders/1m4gLsR3uFO9HM5lXMsoFPcmkP7mBpvYZ?usp=sharing)
 
