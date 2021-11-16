@@ -32,11 +32,12 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 ## Courses 
 
+* [Tester automatyzujący](https://drive.google.com/file/d/11rYVQCi51rsoqDe9DNplxky5QweSnomo/view?usp=sharing)
 * [SQL - język zapytań do bazy danych SQL Server](https://drive.google.com/file/d/1Sh-c-hrgkqsV0Xe_rV7cfyYd7EboSTZr/view?usp=sharing)
-* Java Basics for Beginners
-* Wprowadzenie do Git i GitHub
-* Selenium Webdriver Java : Learn from Scratch
-* HTML5 and CSS3 Fundamentals
+* [Java Basics for Beginners](https://www.udemy.com/share/101sSs3@W44xEvKrNJo5I6YPbRF2xbmJi5v0aHvuroZdEb79Fuwn6gvkZqCIPTUX4T50OUmDaw==/)
+* [Wprowadzenie do Git i GitHub](https://www.udemy.com/share/101Agk3@yBZpk_Gd0qRGOCXtv6mmVA_Nj6BQt1ai2p6D-aaxicKmGtoA9_JHzOn00xjjGm2pvQ==/)
+* [Selenium Webdriver Java : Learn from Scratch](https://www.udemy.com/share/101vq83@uPVgeLomtMKOagE8rKArtf-UoyuY-cZ1FARHsfdr8850z3D9A28iQ3Cykny1toEfvQ==/)
+* [HTML5 and CSS3 Fundamentals](https://www.udemy.com/share/101sSs3@xiH4oXCqTCmb1mP3msbdttocAz1ynC1CHghljrZVGgF9P_lfpzJnOBjZwWUbKXB6YQ==/)
 
 ## Technical Books read
 
