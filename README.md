@@ -28,7 +28,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 * Databases: MySQL Workbench, MS SQL Server
 * Languages: Java, Javascript (Test Automation)
 * Testing: Selenium, JUnit, Postman, Rest Assured, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
-* Frameworks: Cucumber, WebdriverIO, Appium, 
+* Frameworks: Cucumber, WebdriverIO, Appium 
 * Version Control Systems: Git, Git Bash, GitHub/GitLab
 * CI: Jenkins, TeamCity
 * Other tools: JIRA, TestLink, Maven
