@@ -12,7 +12,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 ## Test documemtation
 
 * [Main tests document](https://drive.google.com/file/d/1WK7wGD-fwomsYrDJzrm-hWSPvZzNTB6I/view?usp=sharing)
-* [Bug reports from JIRA](https://drive.google.com/drive/folders/17PdcEw-0g_sXU5sKOofCAuycWq0LIYst?usp=sharing)
+* [Bug reports from JIRA:]
 [Issue 1](https://drive.google.com/file/d/1grq0ZaqBF0lgKWesAcPd8neoR13G1ZBa/view?usp=sharing)
 [Issue 2]()
 [Issue 3]()
