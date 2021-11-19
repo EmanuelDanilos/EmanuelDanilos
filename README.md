@@ -22,11 +22,11 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 * Databases: MySQL Workbench, MS SQL Server
 * Languages: Java, Javascript (Test Automation)
-* Testing: Selenium, TestNG, JUnit, Mocha, Postman, Rest Assured, ARC, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
-* Frameworks: Cucumber, Angular, CAS, ExtJS, Hibernate, JSF, Microsoft Silverlight, Redux, Spring, Vaadin, .NET
+* Testing: Selenium, JUnit, Postman, Rest Assured, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
+* Frameworks: Cucumber, 
 * Version Control Systems: Git, Git Bash, GitHub/GitLab
 * CI: Jenkins, TeamCity
-* Other tools: Confluence, JIRA, Redmine, Trello, TestLink, Maven, Node.js, npm/yarn
+* Other tools: JIRA, TestLink, Maven
 
 ## Courses 
 
