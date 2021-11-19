@@ -13,10 +13,10 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 * [Main tests document](https://drive.google.com/file/d/1WK7wGD-fwomsYrDJzrm-hWSPvZzNTB6I/view?usp=sharing)
 * [Bug reports from JIRA](https://drive.google.com/drive/folders/17PdcEw-0g_sXU5sKOofCAuycWq0LIYst?usp=sharing)
-*[Issue 1](https://drive.google.com/file/d/1grq0ZaqBF0lgKWesAcPd8neoR13G1ZBa/view?usp=sharing)
-*[Issue 2]()
-*[Issue 3]()
-*[Test scenarios and cases](https://docs.google.com/spreadsheets/d/1f1OPsdn58Ikwil7uNUS5WZwgewi7ghy1wkoqdU1ybis/edit?usp=sharing)
+[Issue 1](https://drive.google.com/file/d/1grq0ZaqBF0lgKWesAcPd8neoR13G1ZBa/view?usp=sharing)
+[Issue 2]()
+[Issue 3]()
+* [Test scenarios and cases](https://docs.google.com/spreadsheets/d/1f1OPsdn58Ikwil7uNUS5WZwgewi7ghy1wkoqdU1ybis/edit?usp=sharing)
 * [Mind map](https://drive.google.com/file/d/1eLguMKKt4YD85x6olAUSPsERdGbiqMRp/view?usp=sharing)
 * [Selenium IDE tests](https://drive.google.com/drive/folders/1m4gLsR3uFO9HM5lXMsoFPcmkP7mBpvYZ?usp=sharing)
 
