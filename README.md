@@ -8,7 +8,7 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 ## Knowledge documentation
 * [SQL statements for the primary databases](https://drive.google.com/file/d/16tmKaRQsYkAhyRBXM6OCON4n66MmK_Yt/view?usp=sharing)
-
+https://drive.google.com/file/d/1WK7wGD-fwomsYrDJzrm-hWSPvZzNTB6I/view?usp=sharing
 ## Test documemtation
 
 * [Main tests document](https://drive.google.com/file/d/1WK7wGD-fwomsYrDJzrm-hWSPvZzNTB6I/view?usp=sharing)
