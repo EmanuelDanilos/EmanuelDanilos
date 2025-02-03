@@ -2,7 +2,7 @@
 
 ## About me
 
-Certified automation tester, taking the first steps in the IT world. I try to expand my knowledge and skills to be able to start a great adventure with testing. Getting a job is not my only goal. At work, I want to show what I can do and what business benefits can result from the use of test automation.
+Certified manual tester creating test scripts for test task automation. I have solid knowledge in manual testing and am familiar with various testing methods and defect detection techniques. Also, I have a good understanding of basic programming concepts, which allows me to write test scripts in Java. 
 
 # My documentation
 
@@ -27,16 +27,20 @@ Certified automation tester, taking the first steps in the IT world. I try to ex
 
 * Databases: MySQL Workbench, MS SQL Server
 * Languages: Java, Javascript (Test Automation)
-* Testing: Selenium, JUnit, Postman, Rest Assured, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
+* Testing: Selenium Webdrive, JUnit, Postman, Rest Assured, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
 * Frameworks: Cucumber, WebdriverIO, Appium 
 * Version Control Systems: Git, Git Bash, GitHub/GitLab
 * CI: Jenkins, TeamCity
-* Other tools: JIRA, TestLink, Maven
+* Other tools: JIRA, Confluence, TestLink
 
-# Courses 
+# Courses: 
 
+## Finished
 * [Tester automatyzujący](https://drive.google.com/file/d/11rYVQCi51rsoqDe9DNplxky5QweSnomo/view?usp=sharing)
 * [SQL - język zapytań do bazy danych SQL Server](https://drive.google.com/file/d/1Sh-c-hrgkqsV0Xe_rV7cfyYd7EboSTZr/view?usp=sharing)
+
+## In progres
+
 * [Java Basics for Beginners](https://www.udemy.com/share/101sSs3@W44xEvKrNJo5I6YPbRF2xbmJi5v0aHvuroZdEb79Fuwn6gvkZqCIPTUX4T50OUmDaw==/)
 * [Wprowadzenie do Git i GitHub](https://www.udemy.com/share/101Agk3@yBZpk_Gd0qRGOCXtv6mmVA_Nj6BQt1ai2p6D-aaxicKmGtoA9_JHzOn00xjjGm2pvQ==/)
 * [Selenium Webdriver Java : Learn from Scratch](https://www.udemy.com/share/101vq83@uPVgeLomtMKOagE8rKArtf-UoyuY-cZ1FARHsfdr8850z3D9A28iQ3Cykny1toEfvQ==/)
