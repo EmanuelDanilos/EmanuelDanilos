@@ -39,7 +39,7 @@ Certified manual tester creating test scripts for test task automation. I have s
 * [Tester automatyzujący](https://drive.google.com/file/d/11rYVQCi51rsoqDe9DNplxky5QweSnomo/view?usp=sharing)
 * [SQL - język zapytań do bazy danych SQL Server](https://drive.google.com/file/d/1Sh-c-hrgkqsV0Xe_rV7cfyYd7EboSTZr/view?usp=sharing)
 
-## In progres
+## In progress
 
 * [Java Basics for Beginners](https://www.udemy.com/share/101sSs3@W44xEvKrNJo5I6YPbRF2xbmJi5v0aHvuroZdEb79Fuwn6gvkZqCIPTUX4T50OUmDaw==/)
 * [Wprowadzenie do Git i GitHub](https://www.udemy.com/share/101Agk3@yBZpk_Gd0qRGOCXtv6mmVA_Nj6BQt1ai2p6D-aaxicKmGtoA9_JHzOn00xjjGm2pvQ==/)
