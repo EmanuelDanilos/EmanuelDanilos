@@ -26,7 +26,7 @@ Certified manual tester creating test scripts for test task automation. I have s
 # Tech Stack
 
 * Databases: MySQL Workbench, MS SQL Server
-* Languages: Java, Javascript (Test Automation)
+* Languages: Java (Test Automation)
 * Testing: Selenium Webdrive, JUnit, Postman, Rest Assured, CSS Selectors, XPATH, Webmethods, Webservices, XML, REST
 * Frameworks: Cucumber, WebdriverIO 
 * Version Control Systems: Git, Git Bash, GitHub/GitLab
