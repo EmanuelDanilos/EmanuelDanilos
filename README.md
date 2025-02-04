@@ -2,7 +2,7 @@
 
 ## About me
 
-Certified manual tester creating test scripts for test task automation. I have solid knowledge in manual testing and am familiar with various testing methods and defect detection techniques. Also, I have a good understanding of basic programming concepts, which allows me to write test scripts in Java. 
+Certified manual tester creating test scripts for test task automation. I have solid knowledge in manual testing and I'm familiar with various testing methods and defect detection techniques. Also, I have a good understanding of basic programming concepts, which allows me to write test scripts in Java. 
 
 # My documentation
 
