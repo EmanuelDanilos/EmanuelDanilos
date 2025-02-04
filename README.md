@@ -45,7 +45,7 @@ Certified manual tester creating test scripts for test task automation. I have s
 
 ## In progress
 
-* [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/share/101sSs3@xiH4oXCqTCmb1mP3msbdttocAz1ynC1CHghljrZVGgF9P_lfpzJnOBjZwWUbKXB6YQ==/](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/learn/lecture/29337872?start=0#overview)](https://www.udemy.com/share/105xSo3@-0eo6aLE5MhWHpBg8Ui-fiYw0SSv6kgMOVAlwYihbFi2fQ0zb30L9WNGyBOBkI8R_w==/)
+* [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/share/105xSo3@-0eo6aLE5MhWHpBg8Ui-fiYw0SSv6kgMOVAlwYihbFi2fQ0zb30L9WNGyBOBkI8R_w==/)
 
 # Technical Books read
 
